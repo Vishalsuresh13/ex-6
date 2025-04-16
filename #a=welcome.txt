@@ -1,0 +1,29 @@
+#a="welcome "
+#print(a[:-1])
+#print(a[0:7]+"You"+a[11:])
+#b="Hello world"
+
+
+'''b=a.cpy(b)
+print (b)'''
+
+
+'''s1="123"
+s2="45"
+s3=(s1+s2)
+print(s3)'''
+
+'''text="aeiou"
+code=""
+for ch in text:
+    a=ord(ch)
+    c=a+5
+    code=code+chr(c)
+print(code) '''
+
+'''plain Text=input("Enter a word case message:")
+distance=int(input("Enter the distance value:"))
+code=""
+for ch in plain '''
+
+
